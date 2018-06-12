@@ -1,1 +1,121 @@
-*{margin:0;padding: 0;}
+.container a{
+	text-decoration: none;
+	color: #fff;
+}
+li{list-style: none;
+   }
+#header-logo{
+	background-color: #4b83a6;
+	height: 112px;
+	padding-top: 15px;
+}
+#header-logo h3{
+	padding-top: 35px;
+	color: #fff;
+}
+#header-menu{
+	background-color: #d7d7d7;
+	height: 42px;
+}
+#header-menu li{
+	float: left;
+	padding: 10px 30px 12px 0px;
+}
+#header-menu a{
+	padding: 10px;
+	color: #3a5362;
+}
+#header-menu a:hover{
+	background: #4d84a6;
+	color: #fff;
+}
+#header-menu a.active{
+	background: #4d84a6;
+	color: #fff;
+}
+#banner{
+	background-color: #4d87ab;
+	padding: 20px 0px;
+}
+#banner .carousel{
+	border: 10px solid white;
+}
+#banner .tenant{
+	border: 10px solid white;
+}
+.text-center{
+	background-color: #d9f9f6;
+	text-align: left;
+}
+.content{
+	padding: 20px 0px;
+}
+.content img{
+	padding: 0px 20px 20px;
+}
+.contact{
+	background-color: #5b8bac;
+	height: 196px;
+}
+
+.login{
+	border: 1px solid white;
+	background-color: #7cb4d7;
+	padding: 10px 20px;
+	margin-top: 15px;
+}
+.login h3{
+	color: white;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+.login button{
+	background-color: #5b9fc8;
+	color: #fff;
+}
+.form-inline{
+	margin-bottom: 10px;
+}
+.signup{
+	background: url(../img/bg2.png);
+	width: 473px;
+	height: 48px;
+	font-size: 22px;
+	text-align: center;
+	margin-top: 10px;
+	padding-top: 5px;
+}
+.find{
+	border: 1px solid white;
+	background-color: #7cb4d7;
+	padding: 10px 20px;
+	margin-top: 15px;
+}
+.find h3{
+	color: white;
+	margin-top: 10px;
+}
+.find button{
+	background-color: #5b9fc8;
+	color: #fff;
+}
+.link{
+	padding-top: 10px;
+}
+footer{
+	background-color: #4b7d9b;
+	
+	padding-top: 20px;
+}
+.info h4{
+	color: #fff;
+	font-size: 16px;
+}
+.info ul{
+	border: solid;
+	line-height: 30px;
+}
+.info p{
+	color: #fff;
+	line-height: 30px;
+}
